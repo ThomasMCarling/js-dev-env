@@ -1,3 +1,3 @@
+import chalk from 'chalk';
 
-
-console.log('starting app in dev mode...');
+console.log(chalk.green('starting app in dev mode...'));
